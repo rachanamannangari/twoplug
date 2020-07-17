@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testplug">
+<listeners>
+
+<listener class-name="com.qaplug.extentreport.ExtentReporterNG"> </listener> </listeners>
+
+<test name="Twoplug regression test" >
+
+<classes>
+
+<!-- <class name="com.qaplug.testcases.TestServicepage"/> 
+ -->      <!-- <class name="com.qaplug.testcases.Testhomepage"/> -->
+       <class name="com.qaplug.testcases.TestLandingPage"/>
+</classes>
+  </test>
+  
+</suite>

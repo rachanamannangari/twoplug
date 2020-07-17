@@ -1,0 +1,10 @@
+com\qaplug\extentreport\ExtentReporterNG.class
+com\qaplug\pages\Servicepage.class
+com\qaplug\utilities\XLutils.class
+com\qaplug\base\BaseClass.class
+com\qaplug\config\ReadConfig.class
+com\qaplug\pages\HoemPage.class
+com\qaplug\utilities\WebEventListener.class
+com\qaplug\pages\Homepage.class
+com\qaplug\pages\LandingPage.class
+com\qaplug\pages\Loginpage.class
